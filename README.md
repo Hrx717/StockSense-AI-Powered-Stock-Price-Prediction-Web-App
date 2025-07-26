@@ -6,6 +6,10 @@
 
 - Developed a user-friendly web application using Streamlit, enabling real-time, interactive stock price forecasting and visualization for end users, which led to 30% faster accessibility and improved user engagement.
 
+<img width="1656" height="530" alt="Screenshot 2025-07-26 190643" src="https://github.com/user-attachments/assets/6acfbd5c-0e8e-4777-bec3-3e69daf6a45c" />
+
+<img width="518" height="791" alt="Screenshot 2025-07-26 190720" src="https://github.com/user-attachments/assets/c2d704a2-2f9d-4595-9a31-b363a8d2df33" />
+
 
 ## Steps to setup and run this Project
 
@@ -25,3 +29,4 @@
     - Run the below command in terminal
         - `streamlit run app.py`
 
+<img width="1263" height="816" alt="Screenshot 2025-07-27 000516" src="https://github.com/user-attachments/assets/76e714c1-9506-4ecb-8035-269b7eba49cb" />
