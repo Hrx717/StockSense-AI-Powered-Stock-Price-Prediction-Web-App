@@ -8,8 +8,6 @@
 
 <img width="1656" height="530" alt="Screenshot 2025-07-26 190643" src="https://github.com/user-attachments/assets/6acfbd5c-0e8e-4777-bec3-3e69daf6a45c" />
 
-<img width="518" height="791" alt="Screenshot 2025-07-26 190720" src="https://github.com/user-attachments/assets/c2d704a2-2f9d-4595-9a31-b363a8d2df33" />
-
 
 ## Steps to setup and run this Project
 
